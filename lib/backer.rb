@@ -11,6 +11,6 @@ class Backer
     backed_projects.push(project)
   end
   
-  def
+
       
 end
